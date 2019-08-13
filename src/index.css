@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  padding: 50px;
+  font-family: "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  background-color: lightskyblue;
+}
+
+
+h1.title {
+  text-align: center;
+  font-size: xx-large;
+  color: white;
+  text-shadow: 2px 2px 8px #000000;
+}
+
+h1.comingevents {
+  padding-top: 50px;
+  text-align: left;
+  color: blue;
+}
+
+h2.eventtitle {
+  font-family: "Lucida Console", Monaco, monospace;
+  padding-left: 50px;
+  color: green;
+}
+
+p.eventdatetime {
+  padding-left: 50px;
+  color: blueviolet
+}
+
