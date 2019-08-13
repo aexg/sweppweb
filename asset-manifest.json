@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sweppweb/static/css/main.a50b9a11.chunk.css",
+    "main.js": "/sweppweb/static/js/main.98a25691.chunk.js",
+    "main.js.map": "/sweppweb/static/js/main.98a25691.chunk.js.map",
+    "runtime~main.js": "/sweppweb/static/js/runtime~main.6f6973bb.js",
+    "runtime~main.js.map": "/sweppweb/static/js/runtime~main.6f6973bb.js.map",
+    "static/js/2.4688b0c8.chunk.js": "/sweppweb/static/js/2.4688b0c8.chunk.js",
+    "static/js/2.4688b0c8.chunk.js.map": "/sweppweb/static/js/2.4688b0c8.chunk.js.map",
+    "index.html": "/sweppweb/index.html",
+    "precache-manifest.6e3f86bcf9e3b37318503e570e4e9ac1.js": "/sweppweb/precache-manifest.6e3f86bcf9e3b37318503e570e4e9ac1.js",
+    "service-worker.js": "/sweppweb/service-worker.js",
+    "static/css/main.a50b9a11.chunk.css.map": "/sweppweb/static/css/main.a50b9a11.chunk.css.map"
+  }
+}
