@@ -10,12 +10,11 @@ server-based solution, especially ease of:
 - retriving of information on client side
 - layout configuration
 
-The web site is deployed here [http://aexg.github.io/sweppweb]
-(http://aexg.github.io/sweppweb)
+The web site is deployed here http://aexg.github.io/sweppweb
 
 ## Suggested next steps
 
 - Add pages for other cities
-- Add static texts
+- Add static texts describing the group
 - Add placeholders for sponsors
 - Edit CSS to make the site beautiful

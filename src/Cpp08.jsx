@@ -25,8 +25,8 @@ export default class Cpp08 extends Component {
         const eventdata = this.state.eventdata;
         return (
             <div className="container">
-                <h1 className="comingevents">Upcoming events in Stockholm</h1>
-                <h2 className="eventtitle">{eventdata.name}</h2>
+                <h2 className="comingevents">Upcoming events in Stockholm</h2>
+                <h3 className="eventtitle">{eventdata.name}</h3>
                 <p className="eventdatetime">{eventdata.local_date} {eventdata.local_time}</p>
             </div>
         );

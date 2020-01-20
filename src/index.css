@@ -1,32 +1,25 @@
 body {
-  margin: 0px;
-  padding: 50px;
-  font-family: "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  background-color: lightskyblue;
+  margin: 50px 0px 0px 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:#FFFFF0;
 }
-
 
 h1.title {
-  text-align: center;
   font-size: xx-large;
   color: white;
-  text-shadow: 2px 2px 8px #000000;
+  text-shadow: 2px 3px 4px black;
 }
 
-h1.comingevents {
+h2.comingevents {
   padding-top: 50px;
-  text-align: left;
-  color: blue;
 }
 
-h2.eventtitle {
-  font-family: "Lucida Console", Monaco, monospace;
+h3.eventtitle {
   padding-left: 50px;
-  color: green;
+  color: blue;
 }
 
 p.eventdatetime {
   padding-left: 50px;
-  color: blueviolet
+  font-weight: 800;
 }
-
